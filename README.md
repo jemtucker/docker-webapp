@@ -4,7 +4,7 @@ Demostrating how to dockerize a django webapp.
 ## Building
 Install docker
 ```
-curl -sSL https://get.docker.com/ |
+curl -sSL https://get.docker.com/ | sh
 ```
 
 Build docker image and run as daemon 
