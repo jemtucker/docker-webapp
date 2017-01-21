@@ -14,7 +14,7 @@ make build
 
 ## Running
 
-Spin up a new docker container containing the helloworld application
+Spin up a new docker container serving the helloworld application
 ```
 make run
 curl http://localhost/
