@@ -1,0 +1,3 @@
+*.pyc
+
+helloworld/db.sqlite3
